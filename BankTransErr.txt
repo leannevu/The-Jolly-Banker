@@ -1,0 +1,3 @@
+ERROR: Not Enough funds to withdraw 20000 from Johnny Cash Growth Index Fund fund
+ERROR: Account 4356 not found. Transfer Transaction Failed.
+ERROR: Account 9876 is already open. Transaction Failed.
